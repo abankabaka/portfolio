@@ -34,7 +34,7 @@ export default function Home() {
               />
             </div>
             <div className="w-full h-[60vh] lg:h-[80vh] md:h-[80vh] sm:h-[60vh] mx-5 flex flex-col md:mt-5">
-              <div className="text-6xl xl:text-5xl lg:text-center lg:text-6xl md:text-5xl sm:text-3xl h-1/2 md:h-1/3 sm:h-1/2 xs:h-[26vh] font-bold flex  lg:w-full flex-col gap-2">
+              <div className="text-6xl xl:text-5xl lg:text-center lg:text-6xl md:text-5xl sm:text-3xl font-bold flex lg:w-full flex-col gap-2 mb-8 mt-4">
                 <span>Hello!</span>
                 <span>
                   I'm{" "}
@@ -50,7 +50,7 @@ export default function Home() {
                 </span>
               </div>
 
-              <div className="flex flex-col items-start justify-end w-full text-base font-medium h-1/2 lg:justify-start font-mont lg:text-center">
+              <div className="flex flex-col items-start justify-start w-full text-base font-medium lg:justify-start font-mont lg:text-center mt-2">
                 <p className="w-full text-[18px] md:text-sm sm:text-xs font-light">
                   Building Digital Solutions That Transform Ideas Into Reality. Founder & CEO of AbanTechnologies — delivering websites, systems, and apps built to empower businesses.
                 </p>
